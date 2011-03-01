@@ -1,0 +1,20 @@
+## 概要
+
+FlashLite1.1のswfを動的に作り出すためのPHPライブラリです。
+swfmillやMingなどは使わずにPHPのみで実装しています
+
+## 依存
+
+- IO_Bit
+  http://openpear.org/package/IO_Bit
+
+- IO_SWF
+  http://openpear.org/package/IO_SWF
+
+## サンプル
+
+- sample/100.php
+- sample/200.php
+
+$ php sample/100.php > 100.swf
+$ php sample/200.php > 200.swf
