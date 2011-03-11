@@ -4,7 +4,7 @@
  * 
  * IO_SWFからMedia_SWFにして用途にあわせて拡張した
  *
- * @package   bowling
+ * @package   Media_SWF 
  * @version   $Id$
  * @copyright Copyright (C) 2010 KAYAC Inc.
  * @author    Kensaku Araga <araga-kensaku@kayac.com> 

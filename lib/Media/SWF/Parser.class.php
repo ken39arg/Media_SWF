@@ -6,7 +6,7 @@ require_once 'IO/Bit.php';
  * SwfFormatパーサ
  * 
  * @uses IO_Bit
- * @package   bowling
+ * @package   Media_SWF 
  * @version   $Id$
  * @copyright Copyright (C) 2010 KAYAC Inc.
  * @author    Kensaku Araga <araga-kensaku@kayac.com> 
