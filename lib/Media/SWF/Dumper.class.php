@@ -114,4 +114,13 @@ class Media_SWF_Dumper
       }
     }
   }
+
+  public static function dumpDefineBitsLossless($fields, $indent = "\t\t")
+  {
+    echo $indent . "CharacterId: ".$fields['CharacterId'].PHP_EOL;
+    echo $indent . "BitmapFormat: ".$fields['BitmapFormat'].PHP_EOL;
+    echo $indent . "BitmapWidth: ".$fields['BitmapWidth'].PHP_EOL;
+    echo $indent . "BitmapHeight: ".$fields['BitmapHeight'].PHP_EOL;
+  }
+
 }
